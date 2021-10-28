@@ -1,5 +1,5 @@
 ## Expertise
-- **Languages**: JavaScript (ES8/React), Python, Ruby, Scala, Java
+- **Languages**: JavaScript, Python, Ruby, Scala, Java
 - **Processes**: TDD, Pair-Programming, Agile Project Management, CI/CD
 
 ## Rates
