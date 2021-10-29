@@ -1,5 +1,5 @@
 ## Expertise
-- **Languages**: JavaScript, Python, Ruby, Scala, Java
+- **Technologies**: JavaScript, Python, Ruby, Scala, Java, [SIPmath](https://www.probabilitymanagement.org/sipmath)
 - **Processes**: TDD, Pair-Programming, Agile Project Management, CI/CD
 
 ## Rates
