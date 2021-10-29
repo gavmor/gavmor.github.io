@@ -1,6 +1,6 @@
 ## Expertise
-- **Technologies**: JavaScript, Python, Ruby, Scala, Java, [SIPmath](https://www.probabilitymanagement.org/sipmath)
-- **Processes**: TDD, Agile, Pair-programming, Continuous Delivery
+- **Products**: SPAs and APIs in JS, Python, Ruby, Scala, Java, [SIPmath](https://www.probabilitymanagement.org/sipmath)
+- **Methods**: TDD, Agile, Pair-programming, Continuous Delivery
 
 ## Rates
 - Software Development: $250/hr
