@@ -1,5 +1,3 @@
-title: "Gavin Morgan"
-
 ## Expertise
 - **Technologies**: JavaScript, Python, Ruby, Scala, Java, [SIPmath](https://www.probabilitymanagement.org/sipmath)
 - **Processes**: TDD, Agile, Pair-programming, Continuous Delivery
