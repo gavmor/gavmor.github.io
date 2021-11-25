@@ -18,8 +18,8 @@
 
 | Name           | Year    | Description                                  | Deficiency |
 |----------------|---------|----------------------------------------------|------------|
-| [Kindici](https://angel.co/company/kindici)        | 2010    | Social network for artists and performers.   | Competence |
-| [Concrn](https://concrn.org/)         | 2015    | Compassionate crisis response for neighbors. | Commitment |
-| First-Class CI | 2016    | Continuous Integration-as-a-Service          | Liquidity  |
-| BitRegister    | 2017    | Cryptocurrency Point-of-Sale machine.        | Conviction |
+| [Kindici](https://angel.co/company/kindici)        | 2010    | Social network for artists and performers.   | Technical Competence |
+| [Concrn](https://concrn.org/)         | 2015    | Compassionate crisis response for neighbors. | Time Commitment |
+| First-Class CI | 2016    | Continuous Integration-as-a-Service          | Financial Liquidity  |
+| BitRegister    | 2017    | Cryptocurrency Point-of-Sale machine.        | Mission Conviction |
 | [Druthers](https://druthers-base.web.app/)       | Ongoing | Group decision-making tool.                  |          — |
