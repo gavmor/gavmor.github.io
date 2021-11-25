@@ -14,4 +14,4 @@
 | [Concrn](https://concrn.org/)         | 2015    | Compassionate crisis response for neighbors. | Commitment |
 | First-Class CI | 2016    | Continuous Integration-as-a-Service          | Liquidity  |
 | BitRegister    | 2017    | Cryptocurrency Point-of-Sale machine.        | Conviction |
-| Druthers       | Ongoing | Group decision-making tool.                  |          — |
+| [Druthers](https://druthers-base.web.app/)       | Ongoing | Group decision-making tool.                  |          — |
