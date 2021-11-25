@@ -7,6 +7,7 @@
 - Non-profit Work (Hours Limited): $50/hr
 
 ## Failures
+
 | Name           | Year    | Description                                  | Deficiency |
 |----------------|---------|----------------------------------------------|------------|
 | [Kindici](https://angel.co/company/kindici)        | 2010    | Social network for artists and performers.   | Competence |
