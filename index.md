@@ -1,18 +1,14 @@
 ## Expertise
+*Full-stack web application development.*
 
----
+## Professional Experience
+- Technical Staff: VMware Inc
+- Senior Developer: Pivotal Software
+- Senior Developer: Euclid Analytics
+- Lead Developer: CanDo
+- Software Developer: Pivotal Labs
 
-- **Products**: SPAs and APIs in JS, Python, Ruby, Scala, Java, [SIPmath](https://www.probabilitymanagement.org/sipmath)
-- **Methods**: TDD, Agile, Pair-programming, Continuous Delivery
-
-## Rates
-
----
-
-- Software Development: $250/hr
-- Non-profit Work (Hours Limited): $50/hr
-
-## Failures
+## Major Growth Opportunities
 
 ---
 
