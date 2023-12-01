@@ -9,8 +9,6 @@
 
 ## Catastrophic "Growth Opportunities"
 
----
-
 | Name                                        	| Year    	| Theme                                       	| Deficiency 	|
 |---------------------------------------------	|---------	|---------------------------------------------	|------------	|
 | [Kindici](https://angel.co/company/kindici) 	| 2010    	| Social network for artists and performers.  	| Technical  	|
