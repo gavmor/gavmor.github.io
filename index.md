@@ -1,4 +1,4 @@
-*💻 Full-stack software developer, with side-hats for 🎩 UX testing, 🎩 customer development, and 🎩 project management.*
+[Resume](https://raw.githubusercontent.com/gavmor/gavmor.github.io/f115d11106fbaa54202a23a7537245a145086655/Resume%20-%20Gavin%20Morgan.pdf)
 
 ## Professional Experience
 - Technical Staff: VMware Inc
