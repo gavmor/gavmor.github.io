@@ -1,10 +1,10 @@
 [Resume](https://raw.githubusercontent.com/gavmor/gavmor.github.io/f115d11106fbaa54202a23a7537245a145086655/Resume%20-%20Gavin%20Morgan.pdf) (PDF download)
 
 ## Professional Experience
-- Technical Staff: VMware Inc
+- Technical Staff: VMware Inc (2020)
 - Senior Developer: Pivotal Software
 - Senior Developer: Euclid Analytics
-- Lead Developer: CanDo
+- Managing Partner: Kiwi Donut Consulting
 - Software Developer: Pivotal Labs
 
 ## Catastrophic "Growth Opportunities"
