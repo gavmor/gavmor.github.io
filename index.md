@@ -1,4 +1,4 @@
-[Resume](https://raw.githubusercontent.com/gavmor/gavmor.github.io/f115d11106fbaa54202a23a7537245a145086655/Resume%20-%20Gavin%20Morgan.pdf) (PDF download)
+[Resume](https://raw.githubusercontent.com/gavmor/gavmor.github.io/refs/heads/main/CV_Gavin_Morgan.pdf) (PDF download)
 
 ## Professional Experience
 - Technical Staff: VMware Inc (2020)
