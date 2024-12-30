@@ -1,0 +1,22 @@
+Privacy Policy
+
+Effective Date: January 1, 2025
+
+This privacy policy explains how I, Gavin Morgan, an independent software developer, collect, use, and protect the information of users who access the apps and services I provide that are integrated with the Garmin Connect Developer Program.
+
+Information Collection
+I only collect the activity data that users choose to share with me through the Garmin Connect integration. This may include fitness tracking information such as steps, heart rate, and workout details.
+
+Information Use
+I use the collected activity data solely to provide the data visualization features within my apps and services. This includes integrating user data with other services, such as Google Calendar, to enhance the user experience.
+
+I do not sell user data to any third parties.
+
+Data Security
+As a solo developer, I take reasonable measures to protect user data from unauthorized access, alteration, or destruction to the best of my abilities. However, I do not have the same level of security infrastructure as a larger company. No method of transmission over the internet or electronic storage is 100% secure.
+
+Changes to this Policy
+I may update this privacy policy from time to time. Users will be notified of any material changes.
+
+Contact Me
+If you have any questions or concerns about my privacy practices, please contact me at morgan.gavin@gmail.com.
