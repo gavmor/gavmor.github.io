@@ -4,13 +4,13 @@ Full-stack software developer, with a side-hat for UX testing, customer developm
 
 [Read my blog](/blog/) · [Download my résumé](./CV_Gavin_Morgan.pdf)
 
-## Professional Experience
+## What I do
 
-- Technical Staff: VMware Inc (2020)
-- Senior Developer: Pivotal Software
-- Senior Developer: Euclid Analytics
-- Managing Partner: Kiwi Donut Consulting
-- Software Developer: Pivotal Labs
+I build software with people: from figuring out which problem is worth solving to shipping, testing, and improving the thing that solves it. My work spans full-stack development, delivery infrastructure, product discovery, and helping teams learn together.
+
+At Pivotal Labs, I paired with clients to ship software and share practices. At Euclid Analytics and VMware, I worked on data collection and cloud infrastructure. As a co-founder of Druthers, I helped build a real-time, peer-to-peer tool for group decisions.
+
+More recently, I've worked on agentic systems: turning experiments into working delivery pipelines, building tools around agents, and evaluating changes against real examples. I've also helped teams in financial services and medical research bring AI-assisted work closer to production.
 
 ## Catastrophic “Growth Opportunities”
 
